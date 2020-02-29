@@ -1,3 +1,10 @@
+'''
+    author: Abodh Poudyal
+    MS Electrical Engineering
+    South Dakota State University
+    email: abodh.poudyal@jacks.sdstate.edu
+'''
+
 import numpy as num
 import matplotlib.pyplot as plt
 import pandas as pd
