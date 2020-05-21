@@ -31,9 +31,9 @@ Although popular, the training has not been carried on batches and hence, each o
 ![Image](https://raw.githubusercontent.com/abodh/autoencoder-neural-network/master/output_plot/hidden_out.png)
 
 ## Dependencies
-1. numpy
-2. matplotlib
-3. pandas
+1. `numpy`
+2. `matplotlib`
+3. `pandas`
 
 ## References
 
